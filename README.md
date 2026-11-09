@@ -27,6 +27,6 @@ Solution: Used rubber bands to attach it over and balanced it well to prevent an
 
 Check Test-Results.jpg
 
-6. What I Learned
+# What I Learned
 
 I was able to learn how to use multiple components and allow it to use/communicate with each other.
