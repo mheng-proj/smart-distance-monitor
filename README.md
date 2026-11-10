@@ -1,5 +1,5 @@
 # smart-distance-monitor
-It is able to scan the distance from the sensor to an obstacle it faces from 0 degrees to 180 degrees. I made this as a stepping stone for my Obstacle Avoiding Robot.
+It is able to measure the distance between the sensor and an obstacle from 0 to 180 degrees. I made this project as a stepping stone for my Obstacle Avoiding Robot.
 
 # Components Used
 
@@ -11,7 +11,7 @@ It is able to scan the distance from the sensor to an obstacle it faces from 0 d
 
 # How It Works
 
-Rotates 0 to 180 degrees constantly and outputs a message depending on how close the obstacle is in front of the sensor. Servo rotates as the Ultrasound Sensor calculates the distance.
+The servo constantly rotates the ultrasonic sensor from 0 to 180 degrees. As the sensor faces different directions, it measures the distance to nearby obstacles and outputs a message depending on how close an obstacle is.
 
 # Challenges Encountered
 
@@ -29,4 +29,4 @@ Check Test-Results.jpg
 
 # What I Learned
 
-I was able to learn how to use multiple components and allow it to use/communicate with each other.
+I learned how to combine multiple components into one working system and understand how they interact with each other.
